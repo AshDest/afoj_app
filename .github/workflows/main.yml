@@ -19,6 +19,6 @@ jobs:
       - name: Merge Dev Branch
         run: |
           git checkout dev
-          git pull origin dev
+          git pull origin main
           git merge --no-ff ${{ github.sha }} -m "Auto-merge from GitHub Actions"
           git push origin main
