@@ -2,8 +2,8 @@
         <nav class="navbar navbar-expand-lg navbar-default fixed-top border-3 border-top border-primary navbar-dark">
             <!-- navigation start -->
             <div class="container">
-                <a class="navbar-brand @@brandLogo" href="index.html"><img src="assets/images/logo.svg"
-                        alt="" /></a>
+                <a class="navbar-brand @@brandLogo" href="/"><img
+                        src="{{ asset('assets/images/logo.svg') }}" alt="" /></a>
                 <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false"
                     aria-label="Toggle navigation">
