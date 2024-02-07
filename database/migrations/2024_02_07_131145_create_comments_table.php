@@ -11,13 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('contacts', function (Blueprint $table) {
+        Schema::create('comments', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('blog_id')->constrained('blogs')->onDelete('cascade');
             $table->string('name');
             $table->string('email');
-            $table->string('subject');
-            $table->text('message');
-            $table->string('status')->default('unread');
+            $table->text('comment');
+            $table->enum('status', ['approved', 'pending', 'spam'])->default('pending');
             $table->string('ip_address')->nullable();
             $table->timestamps();
         });
@@ -28,6 +28,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('contacts');
+        Schema::dropIfExists('comments');
     }
 };

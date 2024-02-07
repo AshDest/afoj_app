@@ -11,14 +11,8 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('abouts', function (Blueprint $table) {
+        Schema::create('cotatations', function (Blueprint $table) {
             $table->id();
-            $table->text('description');
-            $table->text('Story');
-            $table->text('mission');
-            $table->text('vision');
-            $table->text('autre');
-            $table->string('image');
             $table->timestamps();
         });
     }
@@ -28,6 +22,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('abouts');
+        Schema::dropIfExists('cotatations');
     }
 };

@@ -13,9 +13,10 @@
 <body>
     @include('layouts._header')
     @yield('content')
-    <script src="../assets/libs/jquery/dist/jquery.min.js"></script>
-    <script src="../assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../assets/js/theme.min.js"></script>
+    @include('layouts._footer')
+    <script src="{{ asset('../assets/libs/jquery/dist/jquery.min.js') }}"></script>
+    <script src="{{ asset('../assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('../assets/js/theme.min.js') }}"></script>
 </body>
 
 </html>
