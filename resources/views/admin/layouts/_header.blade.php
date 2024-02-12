@@ -1256,7 +1256,7 @@
                         role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true"
                         aria-expanded="false" data-bs-offset="0,0">
                         <div class="avatar avatar-circle avatar-sm avatar-online">
-                            <img src="../d33wubrfki0l68.cloudfront.net/053f2dfd0df2f52c41e903a21d177b0b44abc9b1/1282c/assets/images/profiles/profile-06.jpg"
+                            <img src="{{ asset('admin/../d33wubrfki0l68.cloudfront.net/053f2dfd0df2f52c41e903a21d177b0b44abc9b1/1282c/assets/images/profiles/profile-06.jpg') }}"
                                 alt="..." class="avatar-img" width="40" height="40">
                         </div>
                     </a>
@@ -1265,7 +1265,7 @@
                         <div class="dropdown-item-text">
                             <div class="d-flex align-items-center">
                                 <div class="avatar avatar-sm avatar-circle">
-                                    <img src="../d33wubrfki0l68.cloudfront.net/053f2dfd0df2f52c41e903a21d177b0b44abc9b1/1282c/assets/images/profiles/profile-06.jpg"
+                                    <img src="{{ asset('admin/../d33wubrfki0l68.cloudfront.net/053f2dfd0df2f52c41e903a21d177b0b44abc9b1/1282c/assets/images/profiles/profile-06.jpg') }}"
                                         alt="..." class="avatar-img" width="40" height="40">
                                 </div>
                                 <div class="flex-grow-1 ms-3">
