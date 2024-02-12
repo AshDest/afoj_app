@@ -11,7 +11,7 @@
     <meta name="version" content="1.0.0" />
 
     <!-- FAVICON -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/icon_afoj.ico') }}">
     <!-- BOOTSTRAP -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
     <!-- ICON -->
