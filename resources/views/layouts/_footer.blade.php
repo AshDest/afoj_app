@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
                     <a href="#" class="logo-footer">
-                        <img src="images/logo-light.png" height="24" alt="">
+                        <img src="{{ asset('assets/images/logo-light.png') }}" height="24" alt="">
                     </a>
                     <p class="mt-4 text-white-50">Using this template you can make beautiful landing pages without any
                         major hardwork.</p>
@@ -98,18 +98,20 @@
                 <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <ul class="list-unstyled text-sm-end mb-0">
                         <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="images/footer/american-ex.png" class="avatar avatar-ex-sm"
-                                    title="American Express" alt=""></a></li>
+                                    src="{{ asset('assets/images/footer/american-ex.png') }}"
+                                    class="avatar avatar-ex-sm" title="American Express" alt=""></a></li>
                         <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="images/footer/discover.png" class="avatar avatar-ex-sm" title="Discover"
-                                    alt=""></a></li>
+                                    src="{{ asset('assets/images/footer/discover.png') }}" class="avatar avatar-ex-sm"
+                                    title="Discover" alt=""></a></li>
                         <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="images/footer/master-card.png" class="avatar avatar-ex-sm"
-                                    title="Master Card" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/footer/paypal.png"
-                                    class="avatar avatar-ex-sm" title="Paypal" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img src="images/footer/visa.png"
-                                    class="avatar avatar-ex-sm" title="Visa" alt=""></a></li>
+                                    src="{{ asset('assets/images/footer/master-card.png') }}"
+                                    class="avatar avatar-ex-sm" title="Master Card" alt=""></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)"><img
+                                    src="{{ asset('assets/images/footer/paypal.png') }}" class="avatar avatar-ex-sm"
+                                    title="Paypal" alt=""></a></li>
+                        <li class="list-inline-item"><a href="javascript:void(0)"><img
+                                    src="{{ asset('assets/images/footer/visa.png') }}" class="avatar avatar-ex-sm"
+                                    title="Visa" alt=""></a></li>
                     </ul>
                 </div>
                 <!--end col-->

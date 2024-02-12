@@ -1,5 +1,5 @@
 <section class="section testi-review bg-testi" data-jarallax='{"speed": 0.5}'
-    style="background: url('images/bg/bg-testi.jpg') fixed center center" id="testimony">
+    style="background: url('assets/images/bg/bg-testi.jpg') fixed center center" id="testimony">
     <div class="bg-overlay bg-black" style="opacity: 0.6;"></div>
     <div class="page-triangle"></div>
     <div class="container">
@@ -15,8 +15,8 @@
                                     original text remain in the Lorem Ipsum texts used today. One may speculate that
                                     over the course of time certain. "</p>
                                 <div class="image mt-3 pt-2 mx-auto">
-                                    <img src="images/testi/01.jpg" class="img-fluid mx-auto d-block rounded-circle"
-                                        alt="">
+                                    <img src="{{ asset('assets/images/testi/01.jpg') }}"
+                                        class="img-fluid mx-auto d-block rounded-circle" alt="">
                                     <h6 class="text-uppercase mt-3 mb-1">Benny Berds</h6>
                                     <h6 class="text-muted fw-normal">Businessman</h6>
                                 </div>
@@ -45,8 +45,8 @@
                                     original text remain in the Lorem Ipsum texts used today. One may speculate that
                                     over the course of time certain. "</p>
                                 <div class="image mt-3 pt-2 mx-auto">
-                                    <img src="images/testi/02.jpg" class="img-fluid mx-auto d-block rounded-circle"
-                                        alt="">
+                                    <img src="{{ asset('assets/images/testi/02.jpg') }}"
+                                        class="img-fluid mx-auto d-block rounded-circle" alt="">
                                     <h6 class="text-uppercase mt-3 mb-1">Jane Wran</h6>
                                     <h6 class="text-muted fw-normal">Director</h6>
                                 </div>
@@ -75,8 +75,8 @@
                                     original text remain in the Lorem Ipsum texts used today. One may speculate that
                                     over the course of time certain. "</p>
                                 <div class="image mt-3 pt-2 mx-auto">
-                                    <img src="images/testi/03.jpg" class="img-fluid mx-auto d-block rounded-circle"
-                                        alt="">
+                                    <img src="{{ asset('assets/images/testi/03.jpg') }}"
+                                        class="img-fluid mx-auto d-block rounded-circle" alt="">
                                     <h6 class="text-uppercase mt-3 mb-1">Barb Tomfield</h6>
                                     <h6 class="text-muted fw-normal">Manager</h6>
                                 </div>
@@ -105,8 +105,8 @@
                                     original text remain in the Lorem Ipsum texts used today. One may speculate that
                                     over the course of time certain. "</p>
                                 <div class="image mt-3 pt-2 mx-auto">
-                                    <img src="images/testi/04.jpg" class="img-fluid mx-auto d-block rounded-circle"
-                                        alt="">
+                                    <img src="{{ asset('assets/images/testi/04.jpg') }}"
+                                        class="img-fluid mx-auto d-block rounded-circle" alt="">
                                     <h6 class="text-uppercase mt-3 mb-1">Fred Sink</h6>
                                     <h6 class="text-muted fw-normal">Businessman</h6>
                                 </div>
