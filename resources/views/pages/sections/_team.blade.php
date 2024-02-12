@@ -19,7 +19,8 @@
             <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                 <div class="team-member text-center position-relative overflow-hidden mb-4 shadow rounded">
                     <div class="member-pic position-relative">
-                        <img src="images/team/1.jpg" class="img-fluid d-block mx-auto" alt="img">
+                        <img src="{{ asset('assets/images/team/1.jpg') }}" class="img-fluid d-block mx-auto"
+                            alt="img">
                         <div class="team-overlay">
                             <div class="team-info text-center">
                                 <h5 class="member-name"><a href="page-team-detail.html" class="text-white mb-0">Steve
@@ -47,7 +48,8 @@
             <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                 <div class="team-member text-center position-relative overflow-hidden mb-4 shadow rounded">
                     <div class="member-pic position-relative">
-                        <img src="images/team/2.jpg" class="img-fluid d-block mx-auto" alt="img">
+                        <img src="{{ asset('assets/images/team/2.jpg') }}" class="img-fluid d-block mx-auto"
+                            alt="img">
                         <div class="team-overlay">
                             <div class="team-info text-center">
                                 <h5 class="member-name"><a href="page-team-detail.html" class="text-white mb-0">Jonny
@@ -75,7 +77,8 @@
             <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                 <div class="team-member text-center position-relative overflow-hidden mb-4 shadow rounded">
                     <div class="member-pic position-relative">
-                        <img src="images/team/4.jpg" class="img-fluid d-block mx-auto" alt="img">
+                        <img src="{{ asset('assets/images/team/4.jpg') }}" class="img-fluid d-block mx-auto"
+                            alt="img">
                         <div class="team-overlay">
                             <div class="team-info text-center">
                                 <h5 class="member-name"><a href="page-team-detail.html" class="text-white mb-0">Sushy
@@ -103,7 +106,8 @@
             <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
                 <div class="team-member text-center position-relative overflow-hidden mb-4 shadow rounded">
                     <div class="member-pic position-relative">
-                        <img src="images/team/3.jpg" class="img-fluid d-block mx-auto" alt="img">
+                        <img src="{{ asset('assets/images/team/3.jpg') }}" class="img-fluid d-block mx-auto"
+                            alt="img">
                         <div class="team-overlay">
                             <div class="team-info text-center">
                                 <h5 class="member-name"><a href="page-team-detail.html" class="text-white mb-0">Drany
