@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Bizcell - Landing Page Template</title>
+    <title>AFOJ - Accueil</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="WebSite of Ajoj-drc" />
     <meta name="keywords" content="Afoj, Web site" />

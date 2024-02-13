@@ -1,12 +1,12 @@
     <header id="topnav" class="defaultscroll sticky">
         <div class="container">
             <!-- Logo container-->
-            <a class="logo" href="index.html">
+            <a class="logo" href="/">
                 <span class="logo-light-mode">
-                    <img src="{{ asset('assets/images/logo-dark.png') }}" class="l-dark" alt="">
-                    <img src="{{ asset('assets/images/logo-light.png') }}" class="l-light" alt="">
+                    <img src="{{ asset('assets/images/logo-light_2.png') }}" class="l-dark" alt="">
+                    <img src="{{ asset('assets/images/logo-light_2.png') }}" class="l-light" alt="">
                 </span>
-                <img src="{{ asset('assets/images/logo-light.png') }}" class="logo-dark-mode" alt="">
+                <img src="{{ asset('assets/images/logo-light_2.png') }}" class="logo-dark-mode" alt="">
             </a>
             <!-- End Logo container-->
             <div class="menu-extras">
@@ -46,105 +46,12 @@
                 <!-- Navigation Menu-->
                 <ul class="navigation-menu nav-light nav-right">
                     <li class="has-submenu parent-parent-menu-item">
-                        <a href="javascript:void(0)">Home</a><span class="menu-arrow"></span>
-                        <ul class="submenu">
-                            <li>
-                                <ul>
-                                    <li>
-                                        <a href="index.html" class="sub-menu-item">
-                                            Home
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="index-two.html" class="sub-menu-item">
-                                            Home two
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="index-three.html" class="sub-menu-item">
-                                            Home three
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="index-four.html" class="sub-menu-item">
-                                            Home four
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="index-five.html" class="sub-menu-item">
-                                            Home five
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="index-six.html" class="sub-menu-item">
-                                            Home six
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="index-seven.html" class="sub-menu-item">
-                                            Home seven
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="index-onepage.html" class="sub-menu-item">
-                                            Home onepage
-                                        </a>
-                                    </li>
-
-                                </ul>
-                            </li>
-                        </ul>
+                        <a href="/">Home</a><span class="menu-arrow"></span>
                     </li>
-                    <li><a href="page-about.html" class="sub-menu-item">About Us</a></li>
-                    <li class="has-submenu parent-parent-menu-item">
-                        <a href="javascript:void(0)">Pages</a><span class="menu-arrow"></span>
-                        <ul class="submenu">
-                            <li class="has-submenu parent-menu-item"><a href="javascript:void(0)">Services</a><span
-                                    class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-service-one.html" class="sub-menu-item">Services One</a></li>
-                                    <li><a href="page-service-two.html" class="sub-menu-item">Service Two</a></li>
-                                    <li><a href="page-service-three.html" class="sub-menu-item">Service Three</a></li>
-                                    <li><a href="page-service-detail.html" class="sub-menu-item">Service Detail </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="has-submenu parent-menu-item"><a href="javascript:void(0)">Team</a><span
-                                    class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-team.html" class="sub-menu-item">Team One</a></li>
-                                    <li><a href="page-team-two.html" class="sub-menu-item">Team Two</a></li>
-                                    <li><a href="page-team-three.html" class="sub-menu-item">Team Three</a></li>
-                                    <li><a href="page-team-detail.html" class="sub-menu-item">Team Detail </a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="page-features.html" class="sub-menu-item">Features</a></li>
-                            <li><a href="page-faq.html" class="sub-menu-item">FAQs</a></li>
-                            <li><a href="page-pricing.html" class="sub-menu-item">Pricing</a></li>
-                            <li><a href="page-request.html" class="sub-menu-item">Request</a></li>
-
-
-                            <li class="has-submenu parent-menu-item"><a href="javascript:void(0)">User Pages</a><span
-                                    class="submenu-arrow"></span>
-                                <ul class="submenu">
-                                    <li><a href="page-login.html" class="sub-menu-item"> Login Page</a></li>
-                                    <li><a href="page-signup.html" class="sub-menu-item"> Signup Page</a></li>
-                                    <li><a href="page-forgotpassword.html" class="sub-menu-item"> Forgot Password</a>
-                                    </li>
-                                    <li><a href="page-thankyou.html" class="sub-menu-item">Thank You</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li><a href="page-comingsoon.html" class="sub-menu-item">Coming Soon</a></li>
-                            <li><a href="page-404.html" class="sub-menu-item">404 Error</a></li>
-                            <li><a href="page-components.html" class="sub-menu-item">Components</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="#" class="sub-menu-item">About Us</a></li>
 
                     <li class="has-submenu parent-parent-menu-item">
-                        <a href="javascript:void(0)">Portfolio</a><span class="menu-arrow"></span>
+                        <a href="javascript:void(0)">Evenement</a><span class="menu-arrow"></span>
                         <ul class="submenu megamenu">
                             <li>
                                 <ul>
@@ -207,7 +114,7 @@
                     </li>
 
                     <li class="has-submenu parent-parent-menu-item">
-                        <a href="javascript:void(0)">Blogs</a><span class="menu-arrow"></span>
+                        <a href="javascript:void(0)">Publications</a><span class="menu-arrow"></span>
                         <ul class="submenu">
                             <li><a href="blog-two-column.html" class="sub-menu-item">Blog 2 column</a></li>
                             <li><a href="blog-three-column.html" class="sub-menu-item">Blog 3 column</a></li>
