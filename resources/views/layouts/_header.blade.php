@@ -3,10 +3,10 @@
             <!-- Logo container-->
             <a class="logo" href="index.html">
                 <span class="logo-light-mode">
-                    <img src="images/logo-dark.png" class="l-dark" alt="">
-                    <img src="images/logo-light.png" class="l-light" alt="">
+                    <img src="{{ asset('assets/images/logo-dark.png') }}" class="l-dark" alt="">
+                    <img src="{{ asset('assets/images/logo-light.png') }}" class="l-light" alt="">
                 </span>
-                <img src="images/logo-light.png" class="logo-dark-mode" alt="">
+                <img src="{{ asset('assets/images/logo-light.png') }}" class="logo-dark-mode" alt="">
             </a>
             <!-- End Logo container-->
             <div class="menu-extras">

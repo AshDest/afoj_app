@@ -11,7 +11,7 @@
     <meta name="version" content="1.0.0" />
 
     <!-- FAVICON -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/icon_afoj.ico') }}">
     <!-- BOOTSTRAP -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
     <!-- ICON -->
@@ -48,7 +48,7 @@
 
 
     <!-- Style switcher -->
-    <div id="style-switcher" class="bg-light border p-3 pt-2 pb-2" onclick="toggleSwitcher()">
+    {{-- <div id="style-switcher" class="bg-light border p-3 pt-2 pb-2" onclick="toggleSwitcher()">
         <div>
             <h6 class="title text-center">Select Your Color</h6>
             <ul class="pattern">
@@ -85,7 +85,7 @@
             <a href="javascript: void(0);" class="settings bg-white shadow d-block"><i
                     class="mdi mdi-cog ms-1 mdi-24px position-absolute mdi-spin text-primary"></i></a>
         </div>
-    </div>
+    </div> --}}
     <!-- end Style switcher -->
 
     <!-- Back to top -->
