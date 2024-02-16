@@ -7,11 +7,11 @@
                         <i class="mdi mdi-globe-model d-block mb-0"></i>
                     </div>
                     <div class="flex-1 ms-4">
-                        <h5 class="feature-head mb-1">Globally Partners</h5>
-                        <p class="text-muted mb-0">It is a long established fact that a reader will be distracted
-                            by
-                            the
-                            content of at its readable.</p>
+                        <h5 class="feature-head mb-1">Vision</h5>
+                        <p class="text-muted mb-0">Des familles résilientes
+                            produisant des citoyens de
+                            qualité pour une Nation forte
+                        </p>
                     </div>
                 </div>
             </div>
@@ -22,11 +22,11 @@
                         <i class="mdi mdi-shield-outline d-block mb-0"></i>
                     </div>
                     <div class="flex-1 ms-4">
-                        <h5 class="feature-head mb-1">Trusted Partners</h5>
-                        <p class="text-muted mb-0">It is a long established fact that a reader will be distracted
-                            by
-                            the
-                            content of at its readable.</p>
+                        <h5 class="feature-head mb-1">Mission</h5>
+                        <p class="text-muted mb-0">Accompagner les familles
+                            congolaises à un meilleur
+                            traitement des enfants en leur
+                            sein</p>
                     </div>
                 </div>
             </div>
@@ -37,11 +37,10 @@
                         <i class="mdi mdi-wallet-outline d-block mb-0"></i>
                     </div>
                     <div class="flex-1 ms-4">
-                        <h5 class="feature-head mb-1">Financial Analysis</h5>
-                        <p class="text-muted mb-0">It is a long established fact that a reader will be distracted
-                            by
-                            the
-                            content of at its readable.</p>
+                        <h5 class="feature-head mb-1">Valeurs</h5>
+                        <p class="text-muted mb-0">Bien-être et excellence,
+                            Bienveillance, Respect, rigeur.
+                        </p>
                     </div>
                 </div>
             </div>
