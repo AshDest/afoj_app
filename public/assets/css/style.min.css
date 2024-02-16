@@ -1813,7 +1813,7 @@ p {
     }
 
     #topnav .navigation-menu.nav-light>li>a {
-        color: rgba(255, 255, 255, 0.5)
+        color: rgb(255, 255, 255)
     }
 
     #topnav .navigation-menu.nav-light>li.active>a {
