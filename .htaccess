@@ -1,0 +1,13 @@
+### Rewrite Rules Added by CyberPanel Rewrite Rule Generator
+
+RewriteEngine On
+RewriteCond %{HTTPS}  !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+### End CyberPanel Generated Rules.
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteRule ^(.*)$ public/$1 [L]
+#RewriteRule ^sitemap.xml$ sitemap.php [L]
+</IfModule>
+cat: /home/afoj-rdc.org/public_html/.htaccess: No such file or directory
