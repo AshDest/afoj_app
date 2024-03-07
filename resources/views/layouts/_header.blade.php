@@ -6,15 +6,15 @@
                     <ul class="rs-contact-info">                   
                         <li>
                             <i class="fi fi-rr-envelope-plus"></i>                  
-                            <a href="mailto:info@renovix.biz">info@renovix.biz</a>               
+                            <a href="mailto:info@renovix.biz">info@afoj.org</a>               
                         </li>
                         <li>
                               <i class="fi fi-rr-phone-call"></i>                                      
-                            <a href="tel:+14888444999"> +14888444999</a>                   
+                            <a href="tel:+14888444999"> +24388444999</a>                   
                         </li>
                         <li>
                               <i class="fi-rr-map-marker-home"></i>                                      
-                            503 Ocala Street, Florida, USA                
+                            503 Goma Goma, Nord-Kivu, DRC                
                         </li>
                     </ul>
                 </div>

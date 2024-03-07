@@ -3,7 +3,7 @@
         <div class="row-table">
             <div class="col-cell header-logo">                                  
                 <div class="logo-area">
-                    <a href="index.html">
+                    <a href="/">
                         <img class="normal-logo" src="assets/images/logo-dark.png" alt="logo">  
                         <img class="sticky-logo" src="assets/images/logo-dark.png" alt="logo">
                     </a>
@@ -14,32 +14,10 @@
                     <div class="main-menu">
                         <nav class="rs-menu hidden-md">
                             <ul class="nav-menu">
-                                <li class="menu-item-has-children current-menu-item">
-                                    <a href="index.html">Home</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item-has-children current-menu-item">
-                                            <a href="index.html">Multipages <i class="fi fi-rr-plus-small"></i></a>
-                                            <ul class="sub-menu">
-                                                <li class="active"><a href="index.html">Home 1</a></li>
-                                                <li><a href="index2.html">Home 2</a></li>
-                                                <li><a href="index3.html">Home 3</a></li>
-                                                <li><a href="index4.html">Home 4</a></li>
-                                                <li><a href="index5.html">Home 5</a></li>
-                                            </ul> 
-                                        </li>
-                                        <li class="menu-item-has-children">
-                                            <a href="onepage1.html">Onepages <i class="fi fi-rr-plus-small"></i></a>
-                                            <ul class="sub-menu">
-                                                <li><a href="onepage1.html">Onepage 1</a></li>
-                                                <li><a href="onepage2.html">Onepage 2</a></li>
-                                                <li><a href="onepage3.html">Onepage 3</a></li>
-                                                <li><a href="onepage4.html">Onepage 4</a></li>
-                                                <li><a href="onepage5.html">Onepage 5</a></li>
-                                            </ul>  
-                                        </li>
-                                    </ul>
+                                <li class="current-menu-item">
+                                    <a href="/">Accueil</a>
                                 </li>
-                                <li>
+                                <li class="current-menu-item">
                                     <a href="about.html">About</a>
                                 </li>
                                 <li class="menu-item-has-children">
