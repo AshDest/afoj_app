@@ -2640,7 +2640,7 @@ body .search-modal .close:hover {
   margin: 0px 0px 0px 0px;
 }
 .rs-banner.banner-style1 {
-  background: url(assets/images/banner/banner-bg3.png);
+  background: url(../assets/images/banner/banner-bg3.png);
   vertical-align: top;
   background-repeat: no-repeat;
   background-size: cover;
