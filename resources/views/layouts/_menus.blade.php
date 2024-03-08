@@ -37,7 +37,7 @@
             <div class="col-cell">
                 <div class="expand-btn-inner">
                     <ul>
-                        <li class="btn-quote"><a class="readon slide-started" href="contact1.html">Get a Quote</a></li>
+                        <li class="btn-quote"><a class="readon slide-started" href="#">Faire un don</a></li>
                         <li class="humburger">
                             <a id="nav-expander" class="nav-expander bar" href="#">
                                 <div class="bar">
