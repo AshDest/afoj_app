@@ -3,7 +3,7 @@
         <div class="row mb-40 align-items-end">
             <div class="col-lg-6">
                 <div class="sec-title md-mb-25">
-                    <span class="sub-text big-text">Nos Services</span>
+                    <span class="sub-text big-text">Nos Activités</span>
                     <h2 class="title title2 title-color">
                         Axes de stratégie de l'<span> Association</span>
                     </h2>

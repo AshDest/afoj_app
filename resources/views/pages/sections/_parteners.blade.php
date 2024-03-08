@@ -1,13 +1,13 @@
 <div class="rs-partner partner-main-home partner-modify1 pt-115 pb-120 md-pt-75 md-pb-80">
     <div class="container">
         <div class="sec-title text-center mb-55 md-mb-25">
-            <span class="sub-text big-text">Our Clients</span>
+            <span class="sub-text big-text">Nos partenaires</span>
             <h2 class="title title title2 title-color">
-                We Proud to Work With The<br>
-                Largest <span>organisation</span>
+                Voici les partenaire<br>
+                qui nous travaillons<span> AFOJ</span>
             </h2>
         </div>
-        <div class="row">
+        {{-- <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 mb-30">
                 <div class="grid-figure">
                     <div class="logo-img">
@@ -94,6 +94,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>

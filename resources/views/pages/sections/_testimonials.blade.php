@@ -4,7 +4,7 @@
         <div class="col-lg-6">
             <div class="widget-content">
                 <div class="sec-title mb-40 md-mb-20">
-                    <span class="sub-text big-text">Testimonials</span>
+                    <span class="sub-text big-text">Temoignages</span>
                     <h2 class="title title2">
                         What People <span>Says</span>
                     </h2>

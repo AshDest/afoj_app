@@ -3,7 +3,7 @@
         <div class="row y-middle">
             <div class="col-lg-6">
                 <div class="sec-title md-mb-30">
-                    <h2 class="title title2 white-color">Subscribe Newsletter</h2>
+                    <h2 class="title title2 white-color">Souscrire Newsletter</h2>
                 </div>
             </div>
             <div class="col-lg-6">

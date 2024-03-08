@@ -20,10 +20,10 @@
     <div class="rs-project case-studies-style">
         <div class="container">
             <div class="sec-title text-center mb-45 md-mb-25">
-                <span class="sub-text big-text">Case Studies</span>
+                <span class="sub-text big-text">Nos activités</span>
                 <h2 class="title title2 title-color">
-                    Make Your Business Inflation<br>
-                    Discover Our<span> Projects</span>
+                    Les recentes activités<br>
+                    réalisées par<span> AFOJ</span>
                 </h2>
             </div>
         </div>
@@ -42,13 +42,13 @@
         <div class="container">
             <div class="call-action bg1 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0s">
                 <div class="sec-title">
-                    <span class="sub-text big-text">Careers</span>
+                    <span class="sub-text big-text">Membre</span>
                     <h2 class="title title2 pb-28">
-                        Want to Be Part of<br>
-                        Our <span>Team?</span>
+                        Devenir l'un<br>
+                        de <span>Membre?</span>
                     </h2>
                     <div class="btn-part">
-                        <a class="readon slide-started join" href="contact1.html"><span>Join Our Team</span></a>
+                        <a class="readon slide-started join" href="#"><span>Join Our Team</span></a>
                     </div>
                 </div>
             </div>

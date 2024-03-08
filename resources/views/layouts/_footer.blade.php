@@ -5,8 +5,9 @@
                 <div class="col-lg-3 md-mb-20">
                     <h3 class="footer-title">A propos de nous</h3>
                     <div class="textwidget mb-33">
-                        Lorem ipsum dolor sit amet, conse turini adipiscing elit, sed do eius mod tempor in cididunt ut
-                        labore lorem ipsum
+                        Un rassemblement d’hommes et des femmes congolais qui croyons que pour
+construire une Nation forte et solide, il faut commencer par construire des
+familles fortes et solides. 
                     </div>
                     <ul class="footer-social md-mb-30">
                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -21,32 +22,32 @@
                         <li>
                             <i class="fi fi-rr-map-marker-home"></i>
                             <div class="desc">
-                                503 Ocala Street,<br>
-                                Florida, USA
+                                Goma,<br>
+                                Nord-Kivu, DRC
                             </div>
                         </li>
                         <li>
                             <i class="fi fi-rr-phone-call"></i>
                             <div class="desc">
-                                <a href="tel:(+1)123-4567890">(+1) 123-456-7890</a>
+                                <a href="tel:(+1)123-4567890">(+243) 821 434 499</a>
                             </div>
                         </li>
                         <li>
                             <i class="fi fi-rr-envelope-plus"></i>
                             <div class="desc">
-                                <a href="mailto:info@renovix.biz">info@renovix.biz</a>
+                                <a href="mailto:info@renovix.biz">afojrdc@gmail.com</a>
                             </div>
                         </li>
                     </ul>
                 </div>
                 <div class="col-lg-3 pl-75 md-pl-15 md-mb-10">
-                    <h3 class="footer-title">Featured Services</h3>
+                    <h3 class="footer-title">Nos Activités</h3>
                     <ul class="site-map">
-                        <li><a href="fintech-analysis.html">Fintech Analysis</a></li>
-                        <li><a href="project-reporting.html">Project Reporting</a></li>
-                        <li><a href="reports-analysis.html">Reports Analysis</a></li>
-                        <li><a href="business-analysis.html">Business Analysis</a></li>
-                        <li><a href="business-planning.html">Business Planning</a></li>
+                        <li><a href="#">Formation</a></li>
+                        <li><a href="#">Sensibilisation</a></li>
+                        <li><a href="#">Autonomisation</a></li>
+                        <li><a href="#">Plaidoyers</a></li>
+                        <li><a href="#">Promotion</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
