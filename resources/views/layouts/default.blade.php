@@ -1,126 +1,153 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="zxx"> 
+	
+<!-- Mirrored from demo.rstheme.com/html/renovix/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Mar 2024 09:01:21 GMT -->
 <head>
-    <meta charset="utf-8" />
-    <title>AFOJ - Accueil</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="WebSite of Ajoj-drc" />
-    <meta name="keywords" content="Afoj, Web site" />
-    <meta name="author" content="AshDest" />
-    <meta name="version" content="1.0.0" />
+		<!-- meta tag -->
+		<meta charset="utf-8">
+		<title>AFOJ - Association Fondation Jamaa</title>
+		<meta name="description" content="">
+		<!-- responsive tag -->
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- favicon -->
+		<link rel="apple-touch-icon" href="apple-touch-icon.html">
+		<link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/fav.png') }}">
+		<!-- Bootstrap v5.0.2 css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
+		<!-- font-awesome css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/fonts/font/font-awesome.min.css') }}">
+		<!-- Uicons Regular Rounded css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/uicons-regular-rounded.css') }}">
+		<!-- flaticon css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/fonts/flaticon.css') }}">
+		<!-- animate css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/animate.css') }}">
+		<!-- owl.carousel css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/owl.carousel.css') }}">
+		<!-- slick slider css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/slick.css') }}">
+		<!-- odometer css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/odometer.min.css') }}">
+		<!-- off canvas css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/off-canvas.css') }}">
+		<!-- magnific popup css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/magnific-popup.css') }}">
+		<!-- Main Menu css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/rsmenu-main.css') }}">
+		<!-- spacing css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/rs-spacing.css') }}">
+		<!-- style css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/style.css') }}"> <!-- This stylesheet dynamically changed from style.less -->
+		<!-- responsive css -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/responsive.css') }}">
+		
+	</head>
+	<body class="defult-home">
+		
+		<div class="offwrap"></div>
 
-    <!-- FAVICON -->
-    <link rel="shortcut icon" href="{{ asset('assets/images/icon_afoj.ico') }}">
-    <!-- BOOTSTRAP -->
-    <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
-    <!-- ICON -->
-    <link href="{{ asset('assets/css/materialdesignicons.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/css/line.css') }}" rel="stylesheet">
-    <!-- SLIDER-->
-    <link rel="stylesheet" href="{{ asset('assets/css/tiny-slider.css') }}" type="text/css">
-    <link rel="stylesheet" href="{{ asset('assets/css/tobii.min.css') }}">
-    <!-- Custom Css -->
-    <link href="{{ asset('assets/css/style.min.css') }}" rel="stylesheet" type="text/css" />
-    <link href="{{ asset('assets/css/colors/default.css') }}" rel="stylesheet" id="color-opt">
-</head>
-
-<body>
-    <!-- <div id="preloader">
-        <div id="status">
-            <div class="spinner">
-                <div class="cube1"></div>
-                <div class="cube2"></div>
-            </div>
+		<!--Preloader start here-->
+	   	<div id="pre-load">
+            <div id="loader" class="loader">
+                <div class="loader-container">
+                    <div class="loader-icon"><img src="{{ asset('assets/images/fav.png') }}" alt="Renovix - Business Consulting Html Template "></div>
+                </div>
+            </div>              
         </div>
-    </div> -->
+		<!--Preloader area end here-->
+			
+		<!-- Main content Start -->
+		<div class="main-content">
 
-    <!-- Navbar STart -->
-    @include('layouts._header')
-    <!--end header-->
-    <!-- Navbar End -->
+			<!--Full width header Start-->
+			<div class="full-width-header">
+				<!--Header Start-->
+				<header id="rs-header" class="rs-header header-style1 header-modify1">
+					<!-- Toolbar Area Start -->
+                    @include('layouts._header')
+					<!-- Toolbar Area End -->
+					
+					<!-- Menu Start -->
+                    @include('layouts._menus')
+					<!-- Menu End -->
 
-    @yield('content')
+					<!-- Canvas Menu start -->
+                    @include('layouts._canvas_menu')
+					<!-- Canvas Menu end -->
 
-    <!-- Partner End -->
-    @include('layouts._footer')
-    <!-- Footer End -->
+					<!-- Canvas Mobile Menu start -->
+                    @include('layouts._mobile_menu')
+					<!-- Canvas Menu end -->                             
+				</header>
+				<!--Header End-->
+			</div>
+			<!--Full width header End-->
+            @yield('content')
+		</div> 
+		<!-- Main content End -->
+	 
+		<!-- Footer Start -->
+        @include('layouts._footer')
+		<!-- Footer End -->
 
-
-    <!-- Style switcher -->
-    {{-- <div id="style-switcher" class="bg-light border p-3 pt-2 pb-2" onclick="toggleSwitcher()">
-        <div>
-            <h6 class="title text-center">Select Your Color</h6>
-            <ul class="pattern">
-                <li class="list-inline-item">
-                    <a class="color1" href="javascript: void(0);" onclick="setColor('default')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color2" href="javascript: void(0);" onclick="setColor('blue')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color3" href="javascript: void(0);" onclick="setColor('yellow')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color4" href="javascript: void(0);" onclick="setColor('dark-pink')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color5" href="javascript: void(0);" onclick="setColor('orange')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color6" href="javascript: void(0);" onclick="setColor('brown')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color7" href="javascript: void(0);" onclick="setColor('green')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color8" href="javascript: void(0);" onclick="setColor('purple')"></a>
-                </li>
-                <li class="list-inline-item">
-                    <a class="color9" href="javascript: void(0);" onclick="setColor('firozi')"></a>
-                </li>
-            </ul>
-        </div>
-        <div class="bottom">
-            <a href="javascript: void(0);" class="settings bg-white shadow d-block"><i
-                    class="mdi mdi-cog ms-1 mdi-24px position-absolute mdi-spin text-primary"></i></a>
-        </div>
-    </div> --}}
-    <!-- end Style switcher -->
-
-    <!-- Back to top -->
-    <a href="#" class="back-to-top rounded-pill text-center" id="back-to-top">
-        <i class="mdi mdi-chevron-up d-block"> </i>
-    </a>
-    <!-- Back to top -->
-
-    <!-- javascript -->
-    <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
-    <!-- SLIDER -->
-    <script src="{{ asset('assets/js/tiny-slider.js') }}"></script>
-    <script src="{{ asset('assets/js/tiny-slider-init.js') }}"></script>
-    <!-- play-btn -->
-    <script src="{{ asset('assets/js/tobii.min.js') }}"></script>
-    <!-- PARALLAX -->
-    <script src="{{ asset('assets/js/parallax.js') }}"></script>
-    <!-- BACKGROUND -->
-    <script src="{{ asset('assets/js/easy_background.js') }}"></script>
-    <!-- Switcher -->
-    <script src="{{ asset('assets/js/switcher.js') }}"></script>
-    <script src="{{ asset('assets/js/feather.min.js') }}"></script>
-    <!-- Main Js -->
-    <script src="{{ asset('assets/js/plugins.init.js') }}"></script>
-    <script src="{{ asset('assets/js/app.js') }}"></script>
-    <script>
-        easy_background("#hero-images", {
-            slide: ["assets/images/bg/bg01.jpg", "assets/images/bg/bg02.jpg", "assets/images/bg/bg03.jpg"],
-            delay: [5000, 5000, 5000]
-        });
-    </script>
-
-</body>
+		<!-- start scrollUp  -->
+		<div id="scrollUp">
+			<i class="fa fa-angle-up"></i>
+		</div>
+		<!-- End scrollUp  -->
 
 
-<!-- Mirrored from shreethemes.in/bizcell/layouts/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 12 Feb 2024 11:55:14 GMT -->
+		<!-- Search Modal Start -->
+		<div class="modal fade search-modal" id="searchModal" tabindex="-1">
+			<button type="button" class="close" data-bs-dismiss="modal">
+				<i class="fi fi-rr-cross-small"></i>
+			</button>
+			<div class="modal-dialog modal-dialog-centered">
+				<div class="modal-content">
+					<div class="search-block clearfix">
+						<form>
+							<div class="form-group">
+								<input class="form-control" placeholder="Searching..." type="text">
+								<button type="submit" value="Search"><i class="fi fi-rr-search"></i></button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Search Modal End -->
 
+		<!-- modernizr js -->
+		<script src="{{ asset('assets/js/modernizr-2.8.3.min.js') }}"></script>
+		<!-- jquery latest version -->
+		<script src="{{ asset('assets/js/jquery.min.js') }}"></script>
+		<!-- Bootstrap v5.0.2 js -->
+		<script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
+		<!-- op nav js -->
+		<script src="{{ asset('assets/js/jquery.nav.js') }}"></script>
+		<!-- PageScroll2id onepage js -->
+		<script src="{{ asset('assets/js/jquery.malihu.PageScroll2id.min.js') }}"></script>
+		<!-- owl.carousel js -->
+		<script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
+		<!-- Slick js -->
+		<script src="{{ asset('assets/js/slick.min.js') }}"></script>
+		<!-- wow js -->
+		<script src="{{ asset('assets/js/wow.min.js') }}"></script>
+		<!-- Skill bar js -->
+		<script src="{{ asset('assets/js/skill.bars.jquery.js') }}"></script>
+		<!-- imagesloaded js -->
+		<script src="{{ asset('assets/js/imagesloaded.pkgd.min.js') }}"></script>
+		<!-- odometer & appear js -->
+		<script src="{{ asset('assets/js/jquery.appear.min.js') }}"></script>
+		<script src="{{ asset('assets/js/odometer.min.js') }}"></script>
+		<!-- magnific popup js -->
+		<script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
+		<!-- contact form js -->
+		<script src="{{ asset('assets/js/contact.form.js') }}"></script>
+		<!-- main js -->
+		<script src="{{ asset('assets/js/main.js') }}"></script>
+	</body>
+
+<!-- Mirrored from demo.rstheme.com/html/renovix/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Mar 2024 09:02:01 GMT -->
 </html>

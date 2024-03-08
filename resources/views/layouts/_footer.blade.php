@@ -1,124 +1,93 @@
-    <!-- Footer Start -->
-    <footer class="footer bg-dark">
+<footer id="rs-footer" class="rs-footer footer-main-home">
+    <div class="footer-top">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                    <a href="#" class="logo-footer">
-                        <img src="{{ asset('assets/images/logo-light.png') }}" height="24" alt="">
-                    </a>
-                    <p class="mt-4 text-white-50">Using this template you can make beautiful landing pages without any
-                        major hardwork.</p>
-
-                    <div class="mt-3">
-                        <ul class="list-unstyled footer-icon social mb-0">
-                            <li class="list-inline-item mb-0"><a href="#" class="rounded icon-sm"><i
-                                        data-feather="facebook" class="fea icon-sm"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="#" class="rounded icon-sm"><i
-                                        data-feather="instagram" class="fea icon-sm"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="#" class="rounded icon-sm"><i
-                                        data-feather="twitter" class="fea icon-sm"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="#" class="rounded icon-sm"><i
-                                        data-feather="linkedin" class="fea icon-sm"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="#" class="rounded icon-sm"><i
-                                        data-feather="dribbble" class="fea icon-sm"></i></a></li>
-                        </ul>
+                <div class="col-lg-3 md-mb-20">
+                    <h3 class="footer-title">About Company</h3>
+                    <div class="textwidget mb-33">
+                        Lorem ipsum dolor sit amet, conse turini adipiscing elit, sed do eius mod tempor in cididunt ut labore lorem ipsum 
                     </div>
+                    <ul class="footer-social md-mb-30">  
+                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>                     
+                        <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>                     
+                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>                     
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>                     
+                      </ul>
                 </div>
-                <!--end col-->
-
-                <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light footer-head">Company</h4>
-                    <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i>
-                                Aboutus</a></li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i>
-                                Services</a></li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i> Team</a>
+                <div class="col-lg-3 pl-76 md-pl-15 md-mb-10">
+                    <h3 class="footer-title">Contact Info</h3>
+                    <ul class="address-widget">
+                        <li>
+                            <i class="fi fi-rr-map-marker-home"></i>
+                            <div class="desc">
+                                503 Ocala Street,<br> 
+                                Florida, USA
+                            </div>
                         </li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i>
-                                Pricing</a></li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i>
-                                Features</a></li>
-                    </ul>
-                </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light footer-head">Usefull Links</h4>
-                    <ul class="list-unstyled footer-list mt-4">
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i> Privacy
-                                Protection</a></li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i> Safe
-                                Payments</a>
+                        <li>
+                            <i class="fi fi-rr-phone-call"></i>
+                            <div class="desc">
+                               <a href="tel:(+1)123-4567890">(+1) 123-456-7890</a>
+                            </div>
                         </li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i> Terms of
-                                Services</a></li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i>
-                                Documentation</a>
-                        </li>
-                        <li><a href="#" class="text-foot fs-6"><i class="mdi mdi-chevron-right"></i> Privacy
-                                Policy</a>
+                        <li>
+                            <i class="fi fi-rr-envelope-plus"></i>
+                            <div class="desc">
+                                <a href="mailto:info@renovix.biz">info@renovix.biz</a>
+                            </div>
                         </li>
                     </ul>
                 </div>
-                <!--end col-->
-
-                <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <h4 class="text-light fw-normal footer-head mb-4">Bizcell Store</h4>
-                    <ul class="list-unstyled footer-list">
-                        <li class="fs-6"><i class="mdi mdi-map-marker me-2"></i> 3/2/64 Mongus Street, UK</li>
-                        <li class="fs-6"><i class="mdi mdi-email me-2"></i> name@domain.com</li>
-                        <li class="fs-6"><i class="mdi mdi-phone me-2"></i> +(125) 215-4561</li>
-                        <li class="fs-6"><i class="mdi mdi-earth me-2"></i> www.yourdomain.com</li>
-                        <li class="fs-6"><i class="mdi mdi-twitter me-2"></i> yourname_tweet</li>
-                    </ul>
-
-                </div>
-                <!--end col-->
-            </div>
-            <!--end row-->
-        </div>
-        <!--end container-->
-    </footer>
-    <!--end footer-->
-
-    <footer class="footer footer-bar bg-dark border-top">
-        <div class="container text-center">
-            <div class="row align-items-center">
-                <div class="col-sm-6">
-                    <div class="text-sm-start">
-                        <p class="mb-0">©
-                            <script>
-                                document.write(new Date().getFullYear())
-                            </script> Bizcell. Design with <i class="mdi mdi-heart text-danger"></i> by
-                            <a href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                    <ul class="list-unstyled text-sm-end mb-0">
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="{{ asset('assets/images/footer/american-ex.png') }}"
-                                    class="avatar avatar-ex-sm" title="American Express" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="{{ asset('assets/images/footer/discover.png') }}" class="avatar avatar-ex-sm"
-                                    title="Discover" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="{{ asset('assets/images/footer/master-card.png') }}"
-                                    class="avatar avatar-ex-sm" title="Master Card" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="{{ asset('assets/images/footer/paypal.png') }}" class="avatar avatar-ex-sm"
-                                    title="Paypal" alt=""></a></li>
-                        <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                    src="{{ asset('assets/images/footer/visa.png') }}" class="avatar avatar-ex-sm"
-                                    title="Visa" alt=""></a></li>
+                <div class="col-lg-3 pl-75 md-pl-15 md-mb-10">
+                    <h3 class="footer-title">Featured Services</h3>
+                    <ul class="site-map">
+                        <li><a href="fintech-analysis.html">Fintech Analysis</a></li>
+                        <li><a href="project-reporting.html">Project Reporting</a></li>
+                        <li><a href="reports-analysis.html">Reports Analysis</a></li>
+                        <li><a href="business-analysis.html">Business Analysis</a></li>
+                        <li><a href="business-planning.html">Business Planning</a></li>
                     </ul>
                 </div>
-                <!--end col-->
-
-
+                <div class="col-lg-3">
+                    <h3 class="footer-title">Recent Articles</h3>
+                    <ul class="post-widget">
+                        <li class="post-item mb-30">
+                            <div class="desc"><h3 class="title"><a href="#">How investing in dependend your business growth.</a></h3></div>
+                            <div class="post-date"> 
+                                <i class="fi-rr-calendar"></i>
+                                March 23, 2022                  
+                            </div>
+                        </li>
+                        <li class="post-item">
+                            <div class="desc"><h3 class="title"><a href="#">How to maintain customers relations disaster.</a></h3></div>
+                            <div class="post-date"> 
+                                <i class="fi-rr-calendar"></i>
+                                March 23, 2022                  
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
-        <!--end container-->
-    </footer>
-    <!--end footer-->
+    </div>
+    <div class="footer-bottom">
+        <div class="container">                    
+            <div class="row y-middle">
+                <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
+                    <ul class="copy-right-menu">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="services1.html">Services</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                        <li><a href="contact1.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <div class="copyright text-lg-start text-center">
+                        <p>© 2024 Renovix.  Designed By <a href="https://rstheme.com/" target="blank">RSTheme</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
