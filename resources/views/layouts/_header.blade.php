@@ -1,20 +1,20 @@
 <div class="toolbar-area topbar-style1 hidden-md">
     <div class="container">
         <div class="row rs-vertical-middle">
-           <div class="col-lg-8">
+            <div class="col-lg-8">
                 <div class="toolbar-contact">
-                    <ul class="rs-contact-info">                   
+                    <ul class="rs-contact-info">
                         <li>
-                            <i class="fi fi-rr-envelope-plus"></i>                  
-                            <a href="mailto:info@renovix.biz">info@afoj.org</a>               
+                            <i class="fi fi-rr-envelope-plus"></i>
+                            <a href="mailto:info@renovix.biz">afojrdc@gmail.com</a>
                         </li>
                         <li>
-                              <i class="fi fi-rr-phone-call"></i>                                      
-                            <a href="tel:+14888444999"> +24388444999</a>                   
+                            <i class="fi fi-rr-phone-call"></i>
+                            <a href="tel:+14888444999"> +243 821 434 499</a>
                         </li>
                         <li>
-                              <i class="fi-rr-map-marker-home"></i>                                      
-                            503 Goma Goma, Nord-Kivu, DRC                
+                            <i class="fi-rr-map-marker-home"></i>
+                            Goma, Nord-Kivu, DRC
                         </li>
                     </ul>
                 </div>

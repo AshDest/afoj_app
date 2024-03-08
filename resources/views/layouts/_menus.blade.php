@@ -1,11 +1,11 @@
 <div class="menu-area menu-sticky">
     <div class="container">
         <div class="row-table">
-            <div class="col-cell header-logo">                                  
+            <div class="col-cell header-logo">
                 <div class="logo-area">
                     <a href="/">
-                        <img class="normal-logo" src="assets/images/logo-dark.png" alt="logo">  
-                        <img class="sticky-logo" src="assets/images/logo-dark.png" alt="logo">
+                        <img class="normal-logo" src="{{ asset('assets/images/logo-dark.png') }}" alt="logo">
+                        <img class="sticky-logo" src="{{ asset('assets/images/logo-dark.png') }}" alt="logo">
                     </a>
                 </div>
             </div>
@@ -14,29 +14,14 @@
                     <div class="main-menu">
                         <nav class="rs-menu hidden-md">
                             <ul class="nav-menu">
-                                <li class="current-menu-item">
+                                <li>
                                     <a href="/">Accueil</a>
                                 </li>
-                                <li class="current-menu-item">
-                                    <a href="about.html">About</a>
+                                <li>
+                                    <a href="#">A propos</a>
                                 </li>
-                                <li class="menu-item-has-children">
-                                    <a href="services1.html">Services</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="services1.html">Services 1</a></li>
-                                        <li><a href="services2.html">Services 2</a></li>
-                                        <li class="last-item menu-item-has-children">
-                                            <a href="business-planning.html">Services Single <i class="fi fi-rr-plus-small"></i></a>
-                                            <ul class="sub-menu">
-                                                <li><a href="business-planning.html">Business Planning</a></li>
-                                                <li><a href="financial-advices.html">Financial Advices</a></li>
-                                                <li><a href="business-analysis.html">Business Analysis</a></li>
-                                                <li><a href="reports-analysis.html">Reports Analysis</a></li>
-                                                <li><a href="fintech-analysis.html">Fintech Analysis</a></li>
-                                                <li><a href="project-reporting.html">Project Reporting</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                <li>
+                                    <a href="#">Services</a>
                                 </li>
                                 <li class="menu-item-has-children">
                                     <a href="#">Pages</a>
@@ -52,7 +37,8 @@
                                             </ul>
                                         </li>
                                         <li class="last-item menu-item-has-children">
-                                            <a href="portfolios-style1.html">Portfolios <i class="fi fi-rr-plus-small"></i></a>
+                                            <a href="portfolios-style1.html">Portfolios <i
+                                                    class="fi fi-rr-plus-small"></i></a>
                                             <ul class="sub-menu">
                                                 <li><a href="portfolios-style1.html">Portfolios Style 1</a></li>
                                                 <li><a href="portfolios-style2.html">Portfolios Style 2</a></li>
@@ -84,19 +70,19 @@
                                         </li>
                                         <li><a href="partners.html">Partners</a></li>
                                         <li><a href="pricing-plans.html">Pricing Plans</a></li>
-                                        <li><a href="faq.html">Faq</a></li>     
+                                        <li><a href="faq.html">Faq</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="blog.html">Blog</a>                                                        
-                                    <ul class="sub-menu">  
+                                    <a href="blog.html">Blog</a>
+                                    <ul class="sub-menu">
                                         <li><a href="blog.html">Blog</a></li>
                                         <li><a href="blog-single.html"> Blog Single</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="contact1.html">Contact</a>                                                        
-                                    <ul class="sub-menu">  
+                                    <a href="contact1.html">Contact</a>
+                                    <ul class="sub-menu">
                                         <li><a href="contact1.html">Contact 1</a></li>
                                         <li><a href="contact2.html">Contact 2</a></li>
                                     </ul>
