@@ -8,13 +8,13 @@
             </div>
             <div class="col-lg-6 pr-38 md-pr-15 pl-30 md-pl-15">
                 <div class="sec-title mb-45 md-mb-25">
-                    <span class="sub-text big-text">About Us</span>
+                    <span class="sub-text big-text">A Propos</span>
                     <h2 class="title title2 title-color pb-20">
-                        Over 25 Years of Experience
-                        in Building<span> Business</span>
+                        Plus de 10 ans d'experiences <span> Accompagnement</span>
                     </h2>
-                    <p class="desc small2">On the other hand we denounce with righteous indignation and dislike men who
-                        are so beguiled and demoralized by the charms of pleasure of the moment so blinded by desire.
+                    <p class="desc small2">Accompagnement des parents sur la parentalité positive
+                        via l’organisation des sessions de formations par an et la
+                        sensibilisations journalières sur la thématique;
                     </p>
                 </div>
                 <!-- Counter Section Start -->
@@ -25,10 +25,10 @@
                                 <div class="counter-right-border"></div>
                                 <div class="count-text">
                                     <div class="count-number">
-                                        <span class="rs-count odometer" data-count="552">00</span>
+                                        <span class="rs-count odometer" data-count="3000">00</span>
                                         <span class="prefix">+</span>
                                     </div>
-                                    <span class="title">Happy Customers</span>
+                                    <span class="title">Parents accompagnés</span>
                                 </div>
                             </div>
                         </div>
@@ -36,10 +36,10 @@
                             <div class="rs-counter-list widget-padding">
                                 <div class="count-text">
                                     <div class="count-number">
-                                        <span class="rs-count odometer" data-count="652">00</span>
+                                        <span class="rs-count odometer" data-count="200">00</span>
                                         <span class="prefix">+</span>
                                     </div>
-                                    <span class="title">Completed Cases</span>
+                                    <span class="title">Acc. Individuels</span>
                                 </div>
                             </div>
                         </div>
@@ -53,8 +53,8 @@
                                 <img src="{{ asset('assets/images/about/style2/sir-working.png') }}" alt="Images">
                             </div>
                             <div class="services-text">
-                                <h5 class="title"> Prince La Lakim</h5>
-                                <p class="services-txt">CEO, Founder</p>
+                                <h5 class="title"> Marie Désanges LUMOO</h5>
+                                <p class="services-txt">Coordinatrice de AFO</p>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                     </div>
                 </div>
                 <div class="btn-part mt-45 md-mt-30">
-                    <a class="readon slide-started more" href="contact1.html"><span>Read More</span></a>
+                    <a class="readon slide-started more" href="#"><span>Lire plus</span></a>
                 </div>
             </div>
         </div>

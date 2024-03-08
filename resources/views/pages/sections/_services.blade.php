@@ -3,16 +3,18 @@
         <div class="row mb-40 align-items-end">
             <div class="col-lg-6">
                 <div class="sec-title md-mb-25">
-                    <span class="sub-text big-text">Our Services</span>
+                    <span class="sub-text big-text">Nos Services</span>
                     <h2 class="title title2 title-color">
-                        Proud to Work With The Largest<span> Organisation</span>
+                        Axes de stratégie de l'<span> Association</span>
                     </h2>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="sec-title pb-10">
-                    <p class="desc small">On the other hand we denounce with righteous indignation and dislike men who
-                        are so beguiled and demoralized by the charms of pleasure of the moment so blinded by desire.
+                    <p class="desc small">Accompagner les familles
+                        congolaises à un meilleur
+                        traitement des enfants en leur
+                        sein
                     </p>
                 </div>
             </div>
@@ -25,61 +27,61 @@
             data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="true" data-md-device-dots="false">
             <div class="rs-services-slider mt-45">
                 <div class="content-part">
-                    <h3 class="title"><a href="business-analysis.html">Business Consulting Managemen</a></h3>
-                    <p class="description"> Leverage agile frameworks the provide synopsis for high level Iterative
-                        approaches.</p>
+                    <h3 class="title"><a href="#">Formation et accompagnement</a></h3>
+                    <p class="description"> Formation et accompagnement des parents et futurs parents à la
+                        parentalité positive adaptée.</p>
                 </div>
                 <div class="bottom-part">
                     <div class="services-icon">
                         <img src="{{ asset('assets/images/services/style2/icons/1.png') }}" alt="">
                     </div>
                     <div class="services-btn">
-                        <a class="btn-text" href="business-analysis.html"><i class="fa flaticon-right-arrow"></i></a>
+                        <a class="btn-text" href="#"><i class="fa flaticon-right-arrow"></i></a>
                     </div>
                 </div>
             </div>
             <div class="rs-services-slider mt-45">
                 <div class="content-part">
-                    <h3 class="title"><a href="business-planning.html">Finance Tax Audit Consultancy</a></h3>
-                    <p class="description"> Leverage agile frameworks the provide synopsis for high level Iterative
-                        approaches.</p>
+                    <h3 class="title"><a href="#"> Sensibilisation</a></h3>
+                    <p class="description"> Conscientisation/sensibilisation de l’opunion public sur la pertinence
+                        de l’engagement de tous.</p>
                 </div>
                 <div class="bottom-part">
                     <div class="services-icon">
                         <img src="{{ asset('assets/images/services/style2/icons/2.png') }}" alt="">
                     </div>
                     <div class="services-btn">
-                        <a class="btn-text" href="business-planning.html"><i class="fa flaticon-right-arrow"></i></a>
+                        <a class="btn-text" href="#"><i class="fa flaticon-right-arrow"></i></a>
                     </div>
                 </div>
             </div>
             <div class="rs-services-slider mt-45">
                 <div class="content-part">
-                    <h3 class="title"><a href="financial-advices.html">Environmental Strategy Consulting</a></h3>
-                    <p class="description"> Leverage agile frameworks the provide synopsis for high level Iterative
-                        approaches.</p>
+                    <h3 class="title"><a href="#">Promotion de la recherche scientifique</a></h3>
+                    <p class="description"> Promotion de la recherche scientifique endogène dans le domaine de
+                        l’éducation.</p>
                 </div>
                 <div class="bottom-part">
                     <div class="services-icon">
                         <img src="{{ asset('assets/images/services/style2/icons/3.png') }}" alt="">
                     </div>
                     <div class="services-btn">
-                        <a class="btn-text" href="financial-advices.html"><i class="fa flaticon-right-arrow"></i></a>
+                        <a class="btn-text" href="#"><i class="fa flaticon-right-arrow"></i></a>
                     </div>
                 </div>
             </div>
             <div class="rs-services-slider mt-45">
                 <div class="content-part">
-                    <h3 class="title"><a href="project-reporting.html">Global Transaction Advisory</a></h3>
-                    <p class="description"> Leverage agile frameworks the provide synopsis for high level Iterative
-                        approaches.</p>
+                    <h3 class="title"><a href="#"> Plaidoyers pour des lois</a></h3>
+                    <p class="description"> Plaidoyers pour des lois et mécanismes internes plus protecteurs des
+                        familles en faveur de l’épanouissement de l’enfant.</p>
                 </div>
                 <div class="bottom-part">
                     <div class="services-icon">
                         <img src="{{ asset('assets/images/services/style2/icons/4.png') }}" alt="">
                     </div>
                     <div class="services-btn">
-                        <a class="btn-text" href="project-reporting.html"><i class="fa flaticon-right-arrow"></i></a>
+                        <a class="btn-text" href="#"><i class="fa flaticon-right-arrow"></i></a>
                     </div>
                 </div>
             </div>
@@ -89,11 +91,11 @@
                 <div class="col-lg-5 md-mb-30">
                     <div class="services-btn-box">
                         <div class="sec-title">
-                            <p class="desc small2">We have all the services to help your business. Leverage agile
-                                frameworks to provide.</p>
+                            <p class="desc small2">Nous avons plusieurs services (axes de stratégie) pour faciliter
+                                l'atteinte de nos obejctifs</p>
                             <div class="btn-part mt-28">
-                                <a class="readon slide-started more" href="services1.html"><span>All
-                                        Services</span></a>
+                                <a class="readon slide-started more" href="#"><span>Plus des
+                                        services</span></a>
                             </div>
                         </div>
                     </div>
