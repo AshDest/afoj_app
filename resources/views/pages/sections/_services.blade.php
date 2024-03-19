@@ -5,7 +5,7 @@
                 <div class="sec-title md-mb-25">
                     <span class="sub-text big-text">Nos Activités</span>
                     <h2 class="title title2 title-color">
-                        Axes de stratégie de l'<span> Association</span>
+                        Axes de stratégique de l'<span> Association</span>
                     </h2>
                 </div>
             </div>
