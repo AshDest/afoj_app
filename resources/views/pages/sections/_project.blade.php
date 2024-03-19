@@ -8,72 +8,72 @@
         data-md-device-nav="false" data-md-device-dots="true">
         <div class="project-item">
             <div class="project-img">
-                <a href="portfolios-single.html"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
+                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Humanitaire</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Rencontres et des jeunes des parents à Mweso, à
+                <span class="category"><a href="#">Humanitaire</a></span>
+                <h3 class="title"><a href="#">Rencontres et des jeunes des parents à Mweso, à
                         Rutshuru& à
                         Goma</a></h3>
             </div>
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="portfolios-single.html"><img src="assets/images/project/style2/2.jpg" alt="images"></a>
+                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Formation</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Formations des hommes sur la masculinité positive à
+                <span class="category"><a href="#">Formation</a></span>
+                <h3 class="title"><a href="#">Formations des hommes sur la masculinité positive à
                         Mweso & des parents
                         sur la guérison des blessures de l’ame à Goma</a></h3>
             </div>
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="portfolios-single.html"><img src="assets/images/project/style2/6.jpg" alt="images"></a>
+                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Rencontres</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Des rencontres avec les parents, des journées en
+                <span class="category"><a href="#">Rencontres</a></span>
+                <h3 class="title"><a href="#">Des rencontres avec les parents, des journées en
                         familles,…</a></h3>
             </div>
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="portfolios-single.html"><img src="assets/images/project/style2/4.jpg" alt="images"></a>
+                <a href="#"><img src="assets/images/project/style2/4.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Encadrement</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Activités d’encadrement des jeunes mineurs en
+                <span class="category"><a href="#">Encadrement</a></span>
+                <h3 class="title"><a href="#">Activités d’encadrement des jeunes mineurs en
                         conflit avec la loi à l’EGG</a></h3>
             </div>
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="portfolios-single.html"><img src="assets/images/project/style2/5.jpg" alt="images"></a>
+                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Humanitaire</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Identification et Enregistrement des enfants en âge
+                <span class="category"><a href="#">Humanitaire</a></span>
+                <h3 class="title"><a href="#">Identification et Enregistrement des enfants en âge
                         d'étudier par les membres de AFOJ dans le camp de Lushagara à Mugunga</a></h3>
             </div>
         </div>
         {{-- <div class="project-item">
             <div class="project-img">
-                <a href="portfolios-single.html"><img src="assets/images/project/style2/6.jpg" alt="images"></a>
+                <a href="#"><img src="assets/images/project/style2/6.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Business</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Globally Standards Compliant Business</a></h3>
+                <span class="category"><a href="#">Business</a></span>
+                <h3 class="title"><a href="#">Globally Standards Compliant Business</a></h3>
             </div>
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="portfolios-single.html"><img src="assets/images/project/style2/3.jpg" alt="images"></a>
+                <a href="#"><img src="assets/images/project/style2/3.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Business</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Implementation of a Business Strategy</a></h3>
+                <span class="category"><a href="#">Business</a></span>
+                <h3 class="title"><a href="#">Implementation of a Business Strategy</a></h3>
             </div>
         </div> --}}
     </div>

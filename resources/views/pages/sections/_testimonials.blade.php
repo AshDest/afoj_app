@@ -6,7 +6,7 @@
                 <div class="sec-title mb-40 md-mb-20">
                     <span class="sub-text big-text">Temoignages</span>
                     <h2 class="title title2">
-                        What People <span>Says</span>
+                        Propos des <span>Gens</span>
                     </h2>
                 </div>
                 <div class="rs-carousel owl-carousel" data-loop="true" data-items="1" data-margin="30"
@@ -21,18 +21,19 @@
                             <div class="quote">
                                 <img src="assets/images/testimonial/style1/quote2.png" alt="Images">
                             </div>
-                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test.
-                                Override the digital divide with additional clickthroughs from DevOps. Nanotechnology
-                                immersion along the information highway.</p>
+                            <p>Les blessures psychologiques, mentales non soignées, non guéries entrainent beaucoup de
+                                déséquilibre dans la vie d’une personne de manière à bloquer son épanouissement et son
+                                bonheur.
+                                Il en est de même pour les familles, pour un peuple blessé. </p>
                         </div>
                         <div class="testi-content">
                             <div class="testi-information">
-                                <div class="testi-name">Margot Robbie</div>
-                                <span class="designation">CEO, Pro Theme</span>
+                                <div class="testi-name">Marie Désanges LUMOO</div>
+                                <span class="designation">Coordonatrice, AFOJ</span>
                             </div>
                         </div>
                     </div>
-                    <div class="testi-item">
+                    {{-- <div class="testi-item">
                         <div class="item-content-basic">
                             <div class="quote">
                                 <img src="assets/images/testimonial/style1/quote2.png" alt="Images">
@@ -63,7 +64,7 @@
                                 <span class="designation">Web Developer</span>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>

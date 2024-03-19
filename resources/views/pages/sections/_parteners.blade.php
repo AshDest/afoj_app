@@ -4,7 +4,7 @@
             <span class="sub-text big-text">Nos partenaires</span>
             <h2 class="title title title2 title-color">
                 Voici les partenaire<br>
-                qui nous travaillons<span> AFOJ</span>
+                avec qui nous travaillons<span> AFOJ</span>
             </h2>
         </div>
         {{-- <div class="row">
