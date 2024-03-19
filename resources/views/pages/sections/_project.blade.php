@@ -11,9 +11,10 @@
                 <a href="portfolios-single.html"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Rencontres</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Rencontres et des jeunes des parents à Mweso, à Rutshuru& à
-                    Goma</a></h3>
+                <span class="category"><a href="portfolios-single.html">Humanitaire</a></span>
+                <h3 class="title"><a href="portfolios-single.html">Rencontres et des jeunes des parents à Mweso, à
+                        Rutshuru& à
+                        Goma</a></h3>
             </div>
         </div>
         <div class="project-item">
@@ -22,8 +23,9 @@
             </div>
             <div class="project-inner">
                 <span class="category"><a href="portfolios-single.html">Formation</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Formations des hommes sur la masculinité positive à Mweso & des parents
-                    sur la guérison des blessures de l’ame à Goma</a></h3>
+                <h3 class="title"><a href="portfolios-single.html">Formations des hommes sur la masculinité positive à
+                        Mweso & des parents
+                        sur la guérison des blessures de l’ame à Goma</a></h3>
             </div>
         </div>
         <div class="project-item">
@@ -32,7 +34,8 @@
             </div>
             <div class="project-inner">
                 <span class="category"><a href="portfolios-single.html">Rencontres</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Des rencontres avec les parents, des journées en familles,…</a></h3>
+                <h3 class="title"><a href="portfolios-single.html">Des rencontres avec les parents, des journées en
+                        familles,…</a></h3>
             </div>
         </div>
         <div class="project-item">
@@ -41,7 +44,8 @@
             </div>
             <div class="project-inner">
                 <span class="category"><a href="portfolios-single.html">Encadrement</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Activités d’encadrement des jeunes mineurs en conflit avec la loi à l’EGG</a></h3>
+                <h3 class="title"><a href="portfolios-single.html">Activités d’encadrement des jeunes mineurs en
+                        conflit avec la loi à l’EGG</a></h3>
             </div>
         </div>
         <div class="project-item">
@@ -49,11 +53,12 @@
                 <a href="portfolios-single.html"><img src="assets/images/project/style2/5.jpg" alt="images"></a>
             </div>
             <div class="project-inner">
-                <span class="category"><a href="portfolios-single.html">Finance</a></span>
-                <h3 class="title"><a href="portfolios-single.html">Proper Path Strategy in Your Business</a></h3>
+                <span class="category"><a href="portfolios-single.html">Humanitaire</a></span>
+                <h3 class="title"><a href="portfolios-single.html">Identification et Enregistrement des enfants en âge
+                        d'étudier par les membres de AFOJ dans le camp de Lushagara à Mugunga</a></h3>
             </div>
         </div>
-        <div class="project-item">
+        {{-- <div class="project-item">
             <div class="project-img">
                 <a href="portfolios-single.html"><img src="assets/images/project/style2/6.jpg" alt="images"></a>
             </div>
@@ -70,6 +75,6 @@
                 <span class="category"><a href="portfolios-single.html">Business</a></span>
                 <h3 class="title"><a href="portfolios-single.html">Implementation of a Business Strategy</a></h3>
             </div>
-        </div>
+        </div> --}}
     </div>
 </div>
