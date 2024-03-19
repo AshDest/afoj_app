@@ -8,7 +8,7 @@
         data-md-device-nav="false" data-md-device-dots="true">
         <div class="project-item">
             <div class="project-img">
-                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
+                <a href="#"><img src="{{ asset('assets/images/project/style2/1.jpg') }}" alt="images"></a>
             </div>
             <div class="project-inner">
                 <span class="category"><a href="#">Humanitaire</a></span>
@@ -19,7 +19,7 @@
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
+                <a href="#"><img src="{{ asset('assets/images/project/style2/1.jpg') }}" alt="images"></a>
             </div>
             <div class="project-inner">
                 <span class="category"><a href="#">Formation</a></span>
@@ -30,7 +30,7 @@
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
+                <a href="#"><img src="{{ asset('assets/images/project/style2/1.jpg') }}" alt="images"></a>
             </div>
             <div class="project-inner">
                 <span class="category"><a href="#">Rencontres</a></span>
@@ -50,7 +50,7 @@
         </div>
         <div class="project-item">
             <div class="project-img">
-                <a href="#"><img src="assets/images/project/style2/1.jpg" alt="images"></a>
+                <a href="#"><img src="{{ asset('assets/images/project/style2/1.jpg') }}" alt="images"></a>
             </div>
             <div class="project-inner">
                 <span class="category"><a href="#">Humanitaire</a></span>

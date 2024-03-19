@@ -11,7 +11,7 @@
             <div class="col-lg-6 md-mb-50">
                 <div class="blog-item">
                     <div class="image-wrap">
-                        <a href="#"><img src="assets/images/blog/style2/4.jpg" alt=""></a>
+                        <a href="#"><img src="{{ asset('assets/images/blog/style2/4.jpg') }}" alt=""></a>
                     </div>
                     <div class="blog-content">
                         <ul class="blog-meta">
@@ -32,7 +32,8 @@
                     <div class="blog-meta mb-30">
                         <div class="blog-item-wrap">
                             <div class="image-wrap">
-                                <a href="#"><img src="assets/images/blog/style2/1.jpg" alt=""></a>
+                                <a href="#"><img src="{{ asset('assets/images/blog/style2/1.jpg') }}"
+                                        alt=""></a>
                             </div>
                             <div class="blog-content">
                                 <ul class="blog-meta">

@@ -19,7 +19,7 @@
                     <div class="testi-item">
                         <div class="item-content-basic">
                             <div class="quote">
-                                <img src="assets/images/testimonial/style1/quote2.png" alt="Images">
+                                <img src="{{ asset('assets/images/testimonial/style1/quote2.png') }}" alt="Images">
                             </div>
                             <p>Les blessures psychologiques, mentales non soignées, non guéries entrainent beaucoup de
                                 déséquilibre dans la vie d’une personne de manière à bloquer son épanouissement et son
