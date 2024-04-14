@@ -8,13 +8,10 @@
                         Bienveillance,
                         Respect &<span> rigeur.</span>
                     </h2>
-                    <p class="desc small2">Les attitudes positives : compréhension mutuelle,
-                        l’écoute, le respect des sensibilités et de la
-                        personnes de l’autre, le rire, le sourire, demander
-                        pardon, dire merci, dire je t’en prie, éviter de
-                        condamner, de juger les personnes, dire je t’aime,
-                        essayer, se déterminer pour le bonheur de l’autre,
-                        donner pour le bonheur de donner, compatir…</p>
+                    <p class="desc small2">Faire le point sur sa propre histoire : ai-je des blessures d’enfant à guérir, quel modèle d'éducation parentale ai-je reçu, 
+                        quel type de parentalité ai-je envie de pratiquer avec mes enfants ? Prendre conscience de l’impact (positif ou négatif) 
+                        que peuvent avoir sur nos enfants nos mots et nos attitudes ainsi que les « étiquettes » que nous leurs collons.
+                    </p>
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
